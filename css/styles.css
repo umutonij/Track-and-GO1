@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://st3.depositphotos.com/3037725/13373/i/1600/depositphotos_133737766-stock-photo-small-urban-blue-bus-on.jpg");
+    background-size: cover;
+    
+
+}
+p{
+color:rgb(3, 3, 3);
+font-size: 25px;
+
+
+}
+h4{
+    color: rgb(248, 10, 42);
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+}
+  
+  h1{
+      text-align: center;
+      font-family: This is who we are;
+  }
+  .panel-footer{
+   
+    margin-bottom: 100px;
+}
+.navbar-default{
+   padding-top: 40px;
+   background-color: rgb(223, 205, 205);
+   font-size: 30px;
+   color: black;
+   font-style: italic;
+}
+IMG{
+    margin-left: 220px;
+}
